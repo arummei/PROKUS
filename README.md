@@ -1,4 +1,0 @@
-PROKUS
-======
-
-Tugas Prokus
